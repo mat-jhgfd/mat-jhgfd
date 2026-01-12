@@ -5,4 +5,4 @@ While this profile doesn't have many public repositories, that doesn't mean I'm 
 ## Skills
 - Currently learning and developing my skills in various areas.
 ## Projects
-- No public projects at the moment, but stay tuned for future updates!
+  - [*CanSat*](https://github.com/mat-jhgfd/Cansat): ESA competition involving the deployment of a can-sized satellite from a height of 1 km. The objective is to perform missions such as telemetry and a custom mission. [ESA link](https://www.esa.int/Education/CanSat)
